@@ -1,1 +1,0 @@
-regression modelexplained_variance_score: 0.798mean_squared_errors: 0.206r2_score: 0.798
